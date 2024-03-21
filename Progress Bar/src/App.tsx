@@ -22,6 +22,7 @@ const App: React.FC = () => {
 
   return (
     <>
+    <h2>Progress Bar</h2>
       <ProgressBar
         progress={progress}
         backGroundColor="#e0e0e0"
