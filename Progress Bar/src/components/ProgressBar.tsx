@@ -18,7 +18,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({
       <div
         style={{
           background: backGroundColor,
-          width: "300px",
+          width: "500px",
           borderRadius: "8px",
           overflow: "hidden",
           textAlign: "center",
